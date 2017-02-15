@@ -50,7 +50,7 @@ cuenta <- matrix(0, s, n)
 cuenta
 max<- max(cuenta)
 max_cad <- which(cuenta==max(cuenta), arr.ind=TRUE)
-sprintf("El numero maximo de subcadenas es de %i. Corresponde al simbolo %o y son de tama??o %x ", max, max_cad[1, 1], max_cad[1, 2]+1)
+sprintf("El numero maximo de subcadenas es de %i. Corresponde al simbolo %o y son de tamano %x ", max, max_cad[1, 1], max_cad[1, 2]+1)
 
 
 
