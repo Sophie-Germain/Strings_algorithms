@@ -1,2 +1,3 @@
-# Strings_algorithms
-Repo to practice algorithms on strings
+# Algorithms on strings
+
+Practice repository
